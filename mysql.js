@@ -4,7 +4,7 @@ const path = require("path");
 const dataSource = new typeorm.DataSource({
     type: "mysql",
     host: "localhost",
-    port: 3306,
+    port: ....,
     username: "....",
     password: "....",
     database: "....",
